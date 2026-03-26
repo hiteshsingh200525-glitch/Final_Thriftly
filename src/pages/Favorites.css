@@ -1,0 +1,26 @@
+.favorites-page h1 {
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+
+.title-row {
+  margin-bottom: 3rem;
+}
+
+.title-row p {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.fav-item-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.move-to-cart {
+  width: 100%;
+  font-size: 0.9rem;
+  padding: 10px;
+}
